@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-Teat changes to a branch
+Test changes to a branch
